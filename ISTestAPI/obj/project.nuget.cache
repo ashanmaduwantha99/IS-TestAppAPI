@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Xthni2a06ibxi+C1edWmr5RKLqtvwL4ezj8kAvKzorUOyoIj2+LAc3zdLFrr5RjMq9wCeS32AXllH6r+z0tOQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\2023.01.28\\ISTest\\API\\IS-TestAppAPI\\ISTestAPI\\ISTestAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ashanp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Ashanp\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ashanp\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ashanp\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ashanp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Ashanp\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
